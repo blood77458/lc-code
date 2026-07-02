@@ -1,6 +1,6 @@
 # LC Code
 
-> 一款现代化的桌面代码编辑器，基于 Electron + React 构建，专为开发者打造的高效编码体验。
+> 💻 基于 Electron + React 构建的 AI 驱动桌面代码编辑器。特性：Monaco Editor、内置终端、多会话 AI Agent、SQLite 存储等。
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Electron](https://img.shields.io/badge/Electron-33.3-479DEE?logo=electron)
@@ -151,7 +151,7 @@ ipcMain.handle('file:read', async (_event, args) => {
 ## 📁 项目结构
 
 ```
-lc_code/
+lc-code/
 ├── package.json              # 项目配置和依赖
 ├── electron.vite.config.ts   # Electron-Vite 构建配置
 ├── tsconfig.json             # TypeScript 配置
@@ -349,8 +349,8 @@ lc_code/
 
 ```bash
 # 克隆项目
-git clone <repository-url>
-cd lc_code
+git clone https://github.com/<your-username>/lc-code.git
+cd lc-code
 
 # 安装依赖（使用 npm）
 npm install
@@ -809,9 +809,9 @@ chore: 更新依赖
 
 ## 📞 联系方式
 
-- **项目主页**: [GitHub Repository](<repository-url>)
-- **问题反馈**: [GitHub Issues](<repository-url>/issues)
-- **功能建议**: [GitHub Discussions](<repository-url>/discussions)
+- **项目主页**: [GitHub Repository](https://github.com/<your-username>/lc-code)
+- **问题反馈**: [GitHub Issues](https://github.com/<your-username>/lc-code/issues)
+- **功能建议**: [GitHub Discussions](https://github.com/<your-username>/lc-code/discussions)
 
 ---
 

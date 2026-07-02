@@ -1,10 +1,11 @@
 # LC Code
 
-> A Cursor-like code editor built with Electron, React, and Monaco Editor.
+> 💻 AI-powered desktop code editor built with Electron + React. Features: Monaco Editor, integrated terminal, multi-session AI agent, SQLite storage, and more.
 
 ![Electron](https://img.shields.io/badge/Electron-33.3-blue)
 ![React](https://img.shields.io/badge/React-19-61dafb)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## ✨ Features
 
@@ -206,7 +207,7 @@ lc-code/
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/<your-username>/lc-code.git
 cd lc-code
 
 # Install dependencies

@@ -1,7 +1,7 @@
 {
   "name": "lc-code",
   "productName": "LC Code",
-  "description": "A Cursor-like code editor built with Electron",
+  "description": "💻 AI-powered desktop code editor built with Electron + React. Features: Monaco Editor, integrated terminal, multi-session AI agent, SQLite storage, and more.",
   "version": "1.0.0",
   "author": "Administrator",
   "main": "./out/main/index.js",
