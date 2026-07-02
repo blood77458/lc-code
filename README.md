@@ -7,6 +7,20 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+## 📸 Screenshots
+
+### Code Editor
+
+Monaco Editor with file tree, syntax highlighting, and TypeScript IntelliSense.
+
+![Code Editor](docs/demo/screenshots/code-editor.png)
+
+### AI Agent Panel
+
+Multi-session AI chat with tool calling, streaming responses, and side-by-side code editing.
+
+![AI Agent Panel](docs/demo/screenshots/agent-panel.png)
+
 ## ✨ Features
 
 - **Code Editing** — Full-featured Monaco Editor with syntax highlighting, IntelliSense, TypeScript lib support, and code navigation
